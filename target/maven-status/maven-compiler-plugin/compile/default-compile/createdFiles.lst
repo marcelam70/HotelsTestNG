@@ -1,0 +1,8 @@
+com/qa/hotels/util/ElementUtil.class
+com/qa/hotels/pages/ThreeStarsHotelsPage.class
+com/qa/hotels/util/JavaScriptUtil.class
+com/qa/hotels/pages/FiveStarsHotelsPage.class
+com/qa/hotels/pages/FourStarsHotelesPage.class
+com/qa/hotels/base/BasePage.class
+com/qa/hotels/util/Constants.class
+com/qa/hotels/pages/HomePage.class

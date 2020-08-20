@@ -1,0 +1,4 @@
+com/qa/hotels/tests/ThreeStarHotelTest.class
+com/qa/hotels/tests/FourStartHotelTest.class
+com/qa/hotels/tests/FiveStarHotelTest.class
+com/qa/hotels/tests/HomePageTest.class
